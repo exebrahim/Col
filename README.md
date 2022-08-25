@@ -1,2 +1,3 @@
 # Col
-Ju
+git initialiaze
+git@github.am
